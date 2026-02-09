@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 am a final-year Computer Science (Data Communication and Networking) student at UiTM, dedicated to building secure and scalable network architectures. My background combines rigorous academic training with hands-on experience in managing network infrastructure and cybersecurity.
+🧑‍🎓 I am a final-year Computer Science (Data Communication and Networking) student at UiTM, dedicated to building secure and scalable network architectures. My background combines rigorous academic training with hands-on experience in managing network infrastructure and cybersecurity.
 
 I am passionate about automating network tasks, exploring the depth of cybersecurity niches, and staying ahead of evolving technology trends.
 
