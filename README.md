@@ -1,6 +1,7 @@
 # 💫 About Me:
-🧑‍🎓 I am a final-year diploma science student passionate about web development. With a strong foundation in science, I am currently diving into the world of coding and design, aiming to become a proficient software engineer in the future. My goal is to create innovative and efficient web solutions that make a difference.<br><br>🖥️ I am currently developing the front-end of an ecommerce website for my final year project using vanilla CSS, HTML and JavaScript.<br><br>📚 Working on acquiring the MERN stack!
+🧑‍🎓 am a final-year Computer Science (Data Communication and Networking) student at UiTM, dedicated to building secure and scalable network architectures. My background combines rigorous academic training with hands-on experience in managing network infrastructure and cybersecurity.
 
+I am passionate about automating network tasks, exploring the depth of cybersecurity niches, and staying ahead of evolving technology trends.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-syahir-rifqi-13b30430a) 
